@@ -1,0 +1,1325 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="icon" href="https://www.blueorchard.com/wp-content/themes/blueorchard/assets/dist/img/favicon.png"/>
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Careers - BlueOrchard</title>
+	<link rel="canonical" href="https://www.blueorchard.com/careers/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Careers - BlueOrchard" />
+	<meta property="og:url" content="https://www.blueorchard.com/careers/" />
+	<meta property="og:site_name" content="BlueOrchard" />
+	<meta property="article:modified_time" content="2023-10-19T13:01:54+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.blueorchard.com/careers/","url":"https://www.blueorchard.com/careers/","name":"Careers - BlueOrchard","isPartOf":{"@id":"https://www.blueorchard.com/#website"},"datePublished":"2022-05-23T16:19:03+00:00","dateModified":"2023-10-19T13:01:54+00:00","breadcrumb":{"@id":"https://www.blueorchard.com/careers/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.blueorchard.com/careers/"]}]},{"@type":"BreadcrumbList","@id":"https://www.blueorchard.com/careers/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.blueorchard.com/"},{"@type":"ListItem","position":2,"name":"Careers"}]},{"@type":"WebSite","@id":"https://www.blueorchard.com/#website","url":"https://www.blueorchard.com/","name":"BlueOrchard","description":"Impact Investment Managers","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.blueorchard.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='theme-styles-css' href='https://www.blueorchard.com/wp-content/themes/blueorchard/assets/dist/css/main.css?ver=1.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='borlabs-cookie-css' href='https://www.blueorchard.com/wp-content/cache/borlabs-cookie/borlabs-cookie_1_en.css?ver=2.2.66-23' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.blueorchard.com/wp-content/plugins/tablepress/css/build/default.css?ver=2.1.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.blueorchard.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.blueorchard.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='borlabs-cookie-prioritize-js-extra'>
+/* <![CDATA[ */
+var borlabsCookiePrioritized = {"domain":"www.blueorchard.com","path":"\/","version":"3","bots":"1","optInJS":{"marketing":{"google-analytics":"PHNjcmlwdD4NCndpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOw0KaWYgKHR5cGVvZiBndGFnICE9PSAnZnVuY3Rpb24nKSB7IGZ1bmN0aW9uIGd0YWcoKXtkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpO30gfQ0KaWYoJzAnID09PSAnMScpIHsNCglndGFnKCdjb25zZW50JywgJ3VwZGF0ZScsIHsnYW5hbHl0aWNzX3N0b3JhZ2UnOiAnZ3JhbnRlZCd9KTsNCn0gZWxzZSB7DQogICAgKGZ1bmN0aW9uICh3LCBkLCBzLCBpKSB7DQogICAgdmFyIGYgPSBkLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdLA0KICAgICAgICBqID0gZC5jcmVhdGVFbGVtZW50KHMpOw0KICAgIGouYXN5bmMgPSB0cnVlOw0KICAgIGouc3JjID0NCiAgICAgICAgImh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0YWcvanM\/aWQ9IiArIGk7DQogICAgZi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqLCBmKTsNCiAgICB9KSh3aW5kb3csIGRvY3VtZW50LCAic2NyaXB0IiwgIkctR1lYMEhRNVBCRSIpOw0KDQogICAgZ3RhZygianMiLCBuZXcgRGF0ZSgpKTsNCiAgICBndGFnKCJjb25maWciLCAiRy1HWVgwSFE1UEJFIiwgeyAiYW5vbnltaXplX2lwIjogdHJ1ZSB9KTsNCn0NCjwvc2NyaXB0Pg=="}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.blueorchard.com/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.2.66' id='borlabs-cookie-prioritize-js'></script>
+<link rel="https://api.w.org/" href="https://www.blueorchard.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.blueorchard.com/wp-json/wp/v2/pages/159" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.blueorchard.com/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.blueorchard.com/?p=159' />
+<link rel="alternate" type="application/json+oembed" href="https://www.blueorchard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.blueorchard.com%2Fcareers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.blueorchard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.blueorchard.com%2Fcareers%2F&#038;format=xml" />
+<script>
+window.dataLayer = window.dataLayer || [];
+if (typeof gtag !== 'function') { function gtag(){dataLayer.push(arguments);} }
+if('0' === '1') {
+    gtag('consent', 'default', {
+       'ad_storage': 'denied',
+       'analytics_storage': 'denied'
+    });
+    gtag("js", new Date());
+    gtag("config", "G-GYX0HQ5PBE", { "anonymize_ip": true });
+
+    (function (w, d, s, i) {
+    var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s);
+    j.async = true;
+    j.src =
+        "https://www.googletagmanager.com/gtag/js?id=" + i;
+    f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "G-GYX0HQ5PBE");
+}
+</script><link rel="icon" href="https://www.blueorchard.com/wp-content/uploads/2022/06/favicon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://www.blueorchard.com/wp-content/uploads/2022/06/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.blueorchard.com/wp-content/uploads/2022/06/favicon.png" />
+<meta name="msapplication-TileImage" content="https://www.blueorchard.com/wp-content/uploads/2022/06/favicon.png" />
+</head>
+
+<body class="page-template-default page page-id-159 has-infobar  no-user-profile page-careers" id="page" >
+
+
+<svg width="0" height="0" style="position:absolute">
+
+	<symbol id="close" viewbox="0 0 22 21" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.905 20.6L.936 3.628 4.47.093l16.971 16.97-3.535 3.536z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M4.035 20.6L21.006 3.628 17.471.093.5 17.063 4.035 20.6z"/></symbol>
+
+	<symbol id="document" viewbox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M3.924 9.333h6.435v1.334H3.924V9.333zm0-2.666h6.435V8H3.924V6.667zM8.75 0H2.315C1.43 0 .707.6.707 1.333V12c0 .733.715 1.333 1.6 1.333h9.66c.885 0 1.61-.6 1.61-1.333V4L8.75 0zm3.217 12H2.315V1.333h5.63v3.334h4.022V12z" /></symbol>
+
+	<symbol id="article" viewbox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M12.667 3.333v9.334H3.333V3.333h9.334zm0-1.333H3.333C2.6 2 2 2.6 2 3.333v9.334C2 13.4 2.6 14 3.333 14h9.334C13.4 14 14 13.4 14 12.667V3.333C14 2.6 13.4 2 12.667 2z" /><path d="M9.333 11.333H4.667V10h4.666v1.333zm2-2.667H4.667V7.333h6.666v1.333zm0-2.666H4.667V4.667h6.666V6z" /></symbol>
+
+	<symbol id="instagram" viewbox="0 0 25 24" xmlns="http://www.w3.org/2000/svg"><path d="M12.5 2.086c3.204 0 3.584.011 4.85.067 3.252.143 4.771 1.63 4.919 4.744.058 1.22.069 1.586.069 4.675 0 3.09-.012 3.456-.069 4.676-.149 3.11-1.664 4.6-4.919 4.743-1.266.056-1.644.068-4.85.068-3.204 0-3.584-.012-4.849-.068-3.26-.143-4.771-1.638-4.919-4.744-.058-1.22-.07-1.585-.07-4.676 0-3.09.013-3.455.07-4.675.149-3.112 1.664-4.601 4.919-4.744 1.266-.055 1.645-.066 4.849-.066zM12.5 0C9.241 0 8.833.013 7.553.07 3.195.261.773 2.593.573 6.8.514 8.035.5 8.43.5 11.571c0 3.143.014 3.537.072 4.772.2 4.202 2.618 6.538 6.98 6.73 1.281.056 1.689.07 4.948.07 3.259 0 3.668-.014 4.948-.07 4.354-.192 6.782-2.524 6.979-6.73.059-1.235.073-1.629.073-4.772 0-3.142-.014-3.536-.072-4.77-.196-4.198-2.617-6.538-6.979-6.73C16.168.013 15.759 0 12.5 0zm0 5.63c-3.403 0-6.162 2.66-6.162 5.941 0 3.282 2.759 5.943 6.162 5.943s6.162-2.66 6.162-5.943c0-3.281-2.759-5.941-6.162-5.941zm0 9.799c-2.209 0-4-1.726-4-3.858 0-2.13 1.791-3.857 4-3.857s4 1.727 4 3.857c0 2.132-1.791 3.858-4 3.858zm6.406-11.422c-.796 0-1.441.622-1.441 1.388 0 .767.645 1.389 1.441 1.389.795 0 1.439-.622 1.439-1.389 0-.766-.644-1.388-1.439-1.388z" /></symbol>
+
+	<symbol id="linkedin" viewbox="0 0 22 21" xmlns="http://www.w3.org/2000/svg"><path d="M4.975 21H.845V6.376h4.13V21zM2.91 4.69C1.58 4.69.5 3.64.5 2.345.5 1.05 1.58 0 2.91 0s2.41 1.05 2.41 2.345C5.32 3.64 4.24 4.69 2.91 4.69zM21.5 21h-4.131v-7.45c0-4.478-5.508-4.139-5.508 0V21H7.73V6.376h4.13v2.347c1.923-3.438 9.64-3.692 9.64 3.291V21z" /></symbol>
+
+	<symbol id="twitter" viewbox="0 0 26 20" xmlns="http://www.w3.org/2000/svg"><path d="M22.94 4.856c.327 6.925-5.053 14.647-14.578 14.647-2.896 0-5.592-.814-7.862-2.212 2.722.307 5.438-.418 7.594-2.039-2.246-.04-4.14-1.464-4.79-3.42a5.366 5.366 0 002.315-.084c-2.467-.475-4.169-2.608-4.114-4.89.69.369 1.482.591 2.322.617C1.544 6.008.897 3.114 2.239.9c2.53 2.979 6.31 4.94 10.572 5.145C12.063 2.965 14.498 0 17.809 0c1.474 0 2.808.597 3.743 1.556A10.55 10.55 0 0024.81.36a4.985 4.985 0 01-2.255 2.724 10.615 10.615 0 002.946-.775 10.188 10.188 0 01-2.561 2.546z" /></symbol>
+
+	<symbol id="youtube" viewbox="0 0 25 18" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_2167_12893)"><path d="M24.26 3.934s-.235-1.652-.954-2.379C22.393.6 21.37.595 20.901.54 17.543.298 12.505.298 12.505.298h-.01s-5.038 0-8.396.242c-.47.056-1.492.06-2.406 1.015-.719.728-.953 2.38-.953 2.38S.5 5.874.5 7.813v1.819c0 1.94.24 3.879.24 3.879s.234 1.652.953 2.379c.914.955 2.113.925 2.647 1.025 1.92.184 8.16.241 8.16.241s5.043-.008 8.401-.25c.47-.056 1.492-.06 2.405-1.016.72-.727.954-2.379.954-2.379s.24-1.94.24-3.88V7.815c0-1.94-.24-3.88-.24-3.88zm-14.238 7.902V5.101l6.484 3.38-6.484 3.355z" /></g><defs><clipPath id="clip0_2167_12893"><path fill="#fff" transform="translate(.5)" d="M0 0h24v17.454H0z"/></clipPath></defs></symbol>
+
+	<symbol id="angle-huge-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 17"><path d="M13.2 7.4L21.8.3l4.5 5.4-13.3 11L.7 5.7 5.4.5l7.8 6.9z" fill-rule="evenodd" clip-rule="evenodd"/></symbol>
+
+	<symbol id="angle-big-right" viewBox="0 0 47 80" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 76.8892L40.5 40.3892L4 3.88916" stroke="currentColor" stroke-width="8"/></symbol>
+
+	<symbol id="angle-big-down" viewBox="0 0 79 47" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M3 4.38916L39.5 40.8892L76 4.38916" stroke="#27A6EC" stroke-width="8"/>
+	</symbol>
+
+	<symbol id="angle-small-down" viewBox="0 0 27 17" xmlns="http://www.w3.org/2000/svg"><path d="M13.829 7.39L5.226.3.774 5.7l13.237 10.91 12.32-11L21.67.39l-7.84 7z"/></symbol>
+
+	<symbol id="angle-circle-right" width="35" height="35" viewBox="0 0 35 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<circle cx="17.5" cy="17.5" r="17.5" transform="rotate(180 17.5 17.5)" fill="currentColor"/>
+		<path d="M13.8372 8.72168L22.5654 17.5002L13.8372 26.2786" stroke="white" stroke-width="5"/>
+	</symbol>
+
+	<symbol id="angle-circle-left" width="35" height="35" viewBox="0 0 35 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<circle cx="17.5" cy="17.5" r="17.5" fill="currentColor"/>
+		<path d="M21.1628 26.2783L12.4346 17.4998L21.1628 8.72136" stroke="white" stroke-width="5"/>
+	</symbol>
+
+	<symbol id="plus" viewBox="0 0 22 23" xmlns="http://www.w3.org/2000/svg"><path d="M.16 10.255h21.841v2.73H.16z"/><path d="M12.446.7v21.84h-2.73V.7z"/></symbol>
+
+	<symbol id="minus" viewBox="0 0 22 23" xmlns="http://www.w3.org/2000/svg"><path d="M.16 10.255h21.841v2.73H.16z"/></symbol>
+
+	<symbol id="info" viewBox="0 0 21 20" xmlns="http://www.w3.org/2000/svg"><path d="M9.666 5.833h1.667V7.5H9.666V5.833zm0 3.334h1.667v5H9.666v-5zm.834-7.5A8.336 8.336 0 002.166 10c0 4.6 3.734 8.333 8.334 8.333S18.833 14.6 18.833 10 15.1 1.667 10.5 1.667zm0 15A6.676 6.676 0 013.833 10 6.676 6.676 0 0110.5 3.333 6.676 6.676 0 0117.166 10a6.676 6.676 0 01-6.666 6.667z"/></symbol>
+
+	<symbol id="play-circle" viewBox="0 0 269 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M112.004 185.66L179.158 135.294L112.004 84.9294V185.66ZM134.389 23.3721C72.6075 23.3721 22.4663 73.5133 22.4663 135.294C22.4663 197.076 72.6075 247.217 134.389 247.217C196.17 247.217 246.311 197.076 246.311 135.294C246.311 73.5133 196.17 23.3721 134.389 23.3721ZM134.389 224.832C85.0309 224.832 44.8508 184.652 44.8508 135.294C44.8508 85.9367 85.0309 45.7566 134.389 45.7566C183.746 45.7566 223.927 85.9367 223.927 135.294C223.927 184.652 183.746 224.832 134.389 224.832Z" fill="white"/>
+	</symbol>
+
+	<symbol id="calendar" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M32.167 6.667H30.5V3.333h-3.333v3.334H13.833V3.333H10.5v3.334H8.833c-1.85 0-3.316 1.5-3.316 3.333L5.5 33.333a3.332 3.332 0 003.333 3.334h23.334c1.833 0 3.333-1.5 3.333-3.334V10c0-1.833-1.5-3.333-3.333-3.333zm0 26.666H8.833V16.667h23.334v16.666zm0-20H8.833V10h23.334v3.333zM20.5 21.667h8.333V30H20.5v-8.333z" fill="#003A70"/></symbol>
+
+	<symbol id="location" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20.5 3.333A11.658 11.658 0 008.835 15c0 8.75 11.667 21.667 11.667 21.667S32.167 23.75 32.167 15c0-6.45-5.216-11.667-11.666-11.667zM12.168 15c0-4.6 3.734-8.333 8.334-8.333S28.834 10.4 28.834 15c0 4.8-4.8 11.983-8.333 16.467-3.467-4.45-8.334-11.717-8.334-16.467z" fill="#003A70"/><path d="M20.5 19.167a4.167 4.167 0 100-8.334 4.167 4.167 0 000 8.334z" fill="#003A70"/></symbol>
+
+	<symbol id="envelope" viewBox="0 0 17 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.586 0H1.918C1.047 0 .342.675.342 1.5l-.008 9c0 .825.713 1.5 1.584 1.5h12.668c.87 0 1.583-.675 1.583-1.5v-9c0-.825-.712-1.5-1.583-1.5zm0 10.5H1.918V3l6.334 3.75L14.586 3v7.5zM8.252 5.25L1.918 1.5h12.668L8.252 5.25z" fill="#fff"/></symbol>
+
+	<symbol id="link" viewBox="0 0 21 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M15.5 0h-4v2h4c1.65 0 3 1.35 3 3s-1.35 3-3 3h-4v2h4c2.76 0 5-2.24 5-5s-2.24-5-5-5zm-6 8h-4c-1.65 0-3-1.35-3-3s1.35-3 3-3h4V0h-4c-2.76 0-5 2.24-5 5s2.24 5 5 5h4V8zm-3-4h8v2h-8V4z" fill="#fff"/></symbol>
+
+</svg>
+																
+
+<div class="modal b-user-profile " id="modal-user-profile">
+	<div class="modal__overlay"></div>
+	<div class="modal__content">
+		<form class="b-user-profile__form" method="POST" action="/">
+			<section class="form-step form-step--1">
+									<div class="b-user-profile__heading">
+													<h2 class="b-user-profile__title">Important Notice</h2>
+																			<div class="b-user-profile__subtitle b-text text-sm"><p>We are delighted that you are interested in BlueOrchard Finance Ltd’s investment products.<br>
+Please select your country of domicile/registration and your investor type. These settings affect the products that will be shown to you in accordance with regulatory requirements.</p></div>
+											</div>
+				
+									<div class="b-user-profile__restricted b-text text-center d-none">
+						<p>This page is currently not available for your investor type or in your jurisdiction. You can <a href="https://www.blueorchard.com/contact/">contact us for further information.</a></p>					</div>
+				
+				<div class="row justify-content-center">
+					<div class="col-sm-6 col-lg-5 b-user-profile__form-field">
+						<label for="country">Your location:</label>
+						<select id="country">
+							<option value="0" selected disabled hidden>Please choose a country</option>
+							<option value="1">Austria</option>
+							<option value="16">Belgium</option>
+							<option value="17">Bulgaria</option>
+							<option value="2">Denmark</option>
+							<option value="3">Finland</option>
+							<option value="4">France</option>
+							<option value="5">Germany</option>
+							<option value="18">Greece</option>
+							<option value="19">Hungary</option>
+							<option value="20">Iceland</option>
+							<option value="21">Ireland</option>
+							<option value="6">Italy</option>
+							<option value="22">Liechtenstein</option>
+							<option value="7">Luxembourg</option>
+							<option value="23">Malta</option>
+							<option value="8">Netherlands</option>
+							<option value="9">Norway</option>
+							<option value="24">Poland</option>
+							<option value="25">Portugal</option>
+							<option value="15">Singapore</option>
+							<option value="10">Spain</option>
+							<option value="11">Sweden</option>
+							<option value="12">Switzerland</option>
+							<option value="13">UK</option>
+							<option value="14">Other</option>
+						</select>
+						<div class="error-message">This field is required</div>
+					</div>
+
+					<div class="col-sm-6 col-lg-5 b-user-profile__form-field">
+						<label for="country">Your investor type*:</label>
+						<select id="investor-type">
+							<option value="0" selected disabled hidden>Investor Type</option>
+							<option value="1">*Institutional Client / Qualified Investor</option>
+							<option value="2">*Private Client</option>
+							<option value="3">Other</option>
+						</select>
+						<div class="error-message">This field is required</div>
+					</div>
+				</div>
+
+														<div class="b-user-profile__text-under-1 b-text text-sm  with-border">
+						<p style="text-align: left;"><strong>Private Client*</strong><br>
+You are likely to be a<strong> Private Client</strong> if you do not qualify as an Institutional Client as defined below. However, if you are an experienced investor or high net worth, you may (upon request and careful consideration) be eligible for treatment similar to that of an institutional client.</p>
+<p style="text-align: left;"><strong>Institutional Client*</strong><br>
+You are likely to be an<strong> Institutional Client</strong> if you are:</p>
+<ol style="text-align: left;"><li>an entity required, under the laws of the jurisdiction in which you carry on business, to be authorized or regulated to operate in the financial markets (which includes but is not limited to financial intermediaries such as: banks, investment firms, broker dealers, insurance companies, insurance intermediaries, funds, pension funds or management companies);</li>
+<li>a large undertaking (the term ‘undertaking’ includes corporates, partnerships and unincorporated associations);</li>
+<li>a national government, central bank, international or supranational institution;</li>
+<li>a regional government, sub-national organization or state-owned agency that manages public debt; or</li>
+<li>an institutional investor whose main activity is to invest in financial instruments, which includes entities dedicated to the securitization of assets or other financing transactions.</li>
+</ol><p style="text-align: left;">The term <strong>Institutional Client</strong> in particular covers professional clients in terms of MiFID and AIFMD or equivalent rules outside the EU, certain investors deemed to be professional investors based on local law (such as “well informed investors” in Luxembourg).</p>
+<p style="text-align: left;">*If you are a Singapore resident, please note that by proceeding to access our website, you are further representing and warranting that you are (i) an <strong>institutional investor</strong> under Section 4A(C) of the Singapore Securities and Futures Act 2001 (“SFA”), and (ii) acting in compliance with the laws, rules and regulations applicable to you. You further acknowledge that (i) BlueOrchard Finance Ltd and its affiliates (including BlueOrchard Investments (Singapore) Pte. Ltd.) are not regulated by the Monetary Authority of Singapore (“MAS”) and are therefore only permitted to offer their products to Singapore residents pursuant to the institutional investor exemption under Section 304 of the SFA, and (ii) this website has not been reviewed by the MAS.</p>
+<p style="text-align: left;"><strong>Qualified Investor*</strong><br>
+You are likely to be a Qualified Investor if you are:</p>
+<ol style="text-align: left;"><li>a regulated financial intermediary such as a bank, a securities firm, a portfolio manager, a trustee, a fund management company or and an asset manager of collective investment schemes or an insurance company;</li>
+<li>a central bank, a public entity with professional treasury operations, a national or supranational public entity with professional treasury operations</li>
+<li>an occupational pension scheme with a professional treasury operations or other occupational pension institution providing professional treasury operations;</li>
+<li>a company or a private investment structure with professional treasury operations for HNW private clients;</li>
+<li>a large company exceeding two of the following parameters: (a) balance sheet total of CHF 20 million; (b) turnover of CHF 40 million; equity of CHF 2 million;</li>
+<li>a private client who has concluded a permanent asset management agreement or a permanent advisory agreement in writing with a financial intermediary or an independent asset manager pursuant to Swiss law.</li>
+</ol><p style="text-align: left;">The term <strong>Qualified Investor</strong> pursuant to CISA covers in particular professional clients and institutional clients in terms of the Swiss Financial Services Act (FINSA).</p>					</div>
+				
+									<div class="b-user-profile__text-under-2 b-text text-center">
+						Are those settings correct ?					</div>
+				
+				<div class="form-actions">
+					<button class="btn form-step__btn-next" type="button">Continue</button>
+					<a class="btn btn-outline" href="https://www.blueorchard.com">Back to Home</a>
+				</div>
+									<p class="b-user-profile__form-bottom-text">
+						<svg>
+							<use xlink:href="#info"></use>
+						</svg>These settings affect the products and events we are allowed to show to you.</p>
+							</section>
+
+			<section class="form-step form-step--2 text-left d-none">
+				<h2 class="text-center">Disclaimer</h2>
+				<div class="b-user-profile__disclaimer b-text">
+					<p><span style="text-decoration: underline">DEFAULT:</span> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
+<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
+<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et i</p>				</div>
+
+									<div class="field-checkbox">
+						<input type="checkbox" id="user-profile-checkbox" required><label for="user-profile-checkbox"><p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p></label>
+					</div>
+				
+				<div class="form-actions">
+					<button class="btn" type="submit">Continue</button>
+					<a class="btn btn-outline" href="https://www.blueorchard.com">Back to Home</a>
+				</div>
+			</section>
+		</form>
+	</div>
+</div>
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<header class="header">
+	<section class="header__top">
+		<div class="top-menu__container visible-xl-up"><ul id="menu-header-top-nav" class="top-menu"><li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-159 current_page_item menu-item-167"><a href="https://www.blueorchard.com/careers/" aria-current="page">Careers</a></li>
+<li id="menu-item-22070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22070"><a href="https://www.blueorchard.com/events">Events</a></li>
+<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://www.blueorchard.com/contacts/">Contacts</a></li>
+</ul></div>		<div class="header__profile js-modal-open" data-modal="modal-user-profile">
+							<div class="header__profile-select"
+					 id="header-country">Country</div>
+				<div class="header__profile-select"
+					 id="header-investor-type">Investor Type</div>
+				<div class="header__profile-select header__profile-select-value d-none">Your Profile&nbsp;<span></span></div>
+					</div>
+	</section>
+
+	<section class="header__main">
+		<div class="container">
+			
+							<a href="https://www.blueorchard.com" class="site-logo" rel="home">
+					<img width="320" height="50" src="" class="attachment-medium size-medium lazyload" alt="" decoding="async" data-src="https://www.blueorchard.com/wp-content/uploads/2022/05/logo.svg" />				</a>
+			
+			<nav class="main-nav">
+				<div class="main-menu__container"><ul id="menu-main-menu" class="main-menu"><li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://www.blueorchard.com/company/">Company</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://www.blueorchard.com/capabilities/">Capabilities</a></li>
+<li id="menu-item-22099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22099"><a href="https://www.blueorchard.com/products">Products</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="https://www.blueorchard.com/impact/">Impact</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://www.blueorchard.com/news-insights/">News &#038; Insights</a></li>
+<li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://www.blueorchard.com/academy/">Academy</a></li>
+</ul></div>				<div class="main-menu__container hidden-xl-up"><ul id="menu-header-top-nav-1" class="top-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-159 current_page_item menu-item-167"><a href="https://www.blueorchard.com/careers/" aria-current="page">Careers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22070"><a href="https://www.blueorchard.com/events">Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://www.blueorchard.com/contacts/">Contacts</a></li>
+</ul></div>			</nav>
+			<span class="icon-burger hidden-xl-up" aria-label="Toggle navigation">
+				<i></i>
+			</span>
+		</div>
+	</section>
+
+			<section class="infobar bg-secondary">
+	<div class="container">
+					<a href="https://www.amazon.de/This-My-Story-Giving-Investing/dp/3866907524/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&#038;crid=1QTE9PUI2VQKG&#038;keywords=peter+fanconi&#038;qid=1661771936&#038;sprefix=peter+fanconi%2Caps%2C76&#038;sr=8-4" target="_blank" rel="nofollow">
+				<svg width="25" height="25" xmlns="http://www.w3.org/2000/svg"><path d="M12.5 22.5c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.07-1.63-5.64-4.5-6.32V4.5c0-.83-.67-1.5-1.5-1.5S11 3.67 11 4.5v.68c-2.86.68-4.5 3.24-4.5 6.32v5l-2 2v1h16v-1l-2-2zm-2 1h-8v-6c0-2.48 1.51-4.5 4-4.5s4 2.02 4 4.5v6z"/></svg>
+				<span>BlueOrchard&#039;s 20 years anniversary book by National Geographic</a></span>
+			</div>
+	<span class="infobar__close"><svg><use xlink:href="#close"></use></svg></span>
+</section>
+	</header>
+
+<main class="site-content" id="content">
+
+
+	
+<section class="m-hero text-left   ">
+						<div class="b-image">
+				<img width="2880" height="750" src="" class="img-cover lazyload" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 2880px) 100vw, 2880px" data-src="https://www.blueorchard.com/wp-content/uploads/2022/08/BO-Website_Headers-Overlay-24.png" data-srcset="https://www.blueorchard.com/wp-content/uploads/2022/08/BO-Website_Headers-Overlay-24.png 2880w, https://www.blueorchard.com/wp-content/uploads/2022/08/BO-Website_Headers-Overlay-24-300x78.png 300w, https://www.blueorchard.com/wp-content/uploads/2022/08/BO-Website_Headers-Overlay-24-1024x267.png 1024w, https://www.blueorchard.com/wp-content/uploads/2022/08/BO-Website_Headers-Overlay-24-768x200.png 768w, https://www.blueorchard.com/wp-content/uploads/2022/08/BO-Website_Headers-Overlay-24-1536x400.png 1536w, https://www.blueorchard.com/wp-content/uploads/2022/08/BO-Website_Headers-Overlay-24-2048x533.png 2048w" />							</div>
+				<div class="container">
+					<h1 class="m-hero__title">For a career with real impact</h1>
+					<div class="b-buttons">
+					
+				<a class="btn" href="https://www.blueorchard.com/careers/#vacancies" >Current vacancies</a>			</div>
+	</div>
+</section>
+
+<section class="m-title-text bg-white">
+	<div class="container">
+		<div class="row flex-lg-row-reverse">
+			<div class="col-lg-6 m-title-text__title">
+														<div class="lottie " data-json="https://www.blueorchard.com/wp-content/uploads/2022/07/Career_Growing.json" data-loop=""></div>
+								<h2 class="b-title h2-lg text-center">Grow with us</h2>
+			</div>
+			<div class="col-lg-6 m-title-text__text text-lg">
+									<div class="b-text"><p class="BOtxt"><span lang="EN-GB">We know that investing in our people is the best way to achieve our goals. So we offer opportunities and resources to help our employees grow – personally and professionally. </span></p></div>
+											</div>
+		</div>
+	</div>
+</section>
+<section class="m-title-text bg-secondary">
+	<div class="container">
+		<div class="row ">
+			<div class="col-lg-6 m-title-text__title">
+												<div class="lottie lottie-1" data-json="https://www.blueorchard.com/wp-content/uploads/2022/07/Career_Wateringcan.json" data-loop="false"></div>
+							<div class="lottie lottie-2 d-none	" data-json="https://www.blueorchard.com/wp-content/uploads/2022/07/Career_Wateringcan_Loop.json" data-loop="1"></div>
+								<h2 class="b-title h2-lg text-center">Do well by doing good</h2>
+			</div>
+			<div class="col-lg-6 m-title-text__text text-lg">
+									<div class="b-text"><p class="BOtxt"><span lang="EN-GB">We are at the cutting edge of impact investment, combining a purpose-driven mission with an entrepreneurial culture for a rewarding, dynamic work environment. </span></p></div>
+											</div>
+		</div>
+	</div>
+</section>
+<section class="m-title-text bg-primary color-white">
+	<div class="container">
+		<div class="row flex-lg-row-reverse">
+			<div class="col-lg-6 m-title-text__title">
+														<div class="lottie " data-json="https://www.blueorchard.com/wp-content/uploads/2022/07/Career_Diversity.json" data-loop=""></div>
+								<h2 class="b-title h2-lg text-center">Diversity is our strength</h2>
+			</div>
+			<div class="col-lg-6 m-title-text__text text-lg">
+									<div class="b-text"><p class="BOtxt"><span lang="EN-GB">We promote diversity and inclusion so that everyone is treated fairly and equally, no matter what their background. </span></p></div>
+											</div>
+		</div>
+	</div>
+</section>
+	<div class="anchor" id="vacancies"></div>
+<section class="b-block-sm m-vacancies bg-grey">
+	<div class="container">
+					<div class="b-heading">
+					<h2 class="b-title ">Current vacancies</h2>
+			</div>
+		
+					<div class="m-vacancies__list js-accordion">
+
+				
+																<div class="b-toggle-card js-accordion-item">
+							<div class="b-toggle-card__title js-accordion-title" data-item="office-6-1">Lima								<svg width="27" height="17" viewBox="0 0 27 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M13.1707 7.3893L21.7736 0.299072L26.2256 5.70087L12.9884 16.6106L0.668516 5.61075L5.33063 0.389189L13.1707 7.3893Z" fill="currentColor"/>
+								</svg>
+							</div>
+							
+								<div class="b-toggle-card__content js-accordion-content" id="office-6-1">
+																													<p>
+																							<a
+												   href="https://blueorchard.bamboohr.com/careers/220" ">Associate Impact Manager</a>
+																					</p>
+																													<p>
+																							<a
+												   href="https://blueorchard.bamboohr.com/careers/223" ">(Senior) Investment Officer</a>
+																					</p>
+																													<p>
+																					</p>
+																	</div>
+
+													</div>
+										
+																<div class="b-toggle-card js-accordion-item">
+							<div class="b-toggle-card__title js-accordion-title" data-item="office-6-2">Tbilisi								<svg width="27" height="17" viewBox="0 0 27 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M13.1707 7.3893L21.7736 0.299072L26.2256 5.70087L12.9884 16.6106L0.668516 5.61075L5.33063 0.389189L13.1707 7.3893Z" fill="currentColor"/>
+								</svg>
+							</div>
+							
+								<div class="b-toggle-card__content js-accordion-content" id="office-6-2">
+																													<p>
+																							<a
+												   href="https://blueorchard.bamboohr.com/careers/224" ">Operations Officer</a>
+																					</p>
+																	</div>
+
+													</div>
+										
+			</div>
+		
+	</div>
+</section>
+	<section class="m-contact-persons m-contact-persons--vertical-md bg-grey">
+		<div class="container">
+				<h2 class="b-title text-center">Contact</h2>
+			<div class="row">
+																				<div class="col-lg-6">
+														<div class="b-person b-person--layout-horizontal">
+			<div class="b-person__photo">
+			<img width="300" height="275" src="" class="img-cover lazyload wp-post-image" alt="" decoding="async" fetchpriority="high" data-src="https://www.blueorchard.com/wp-content/uploads/2022/08/Magdalena-1-e1662458098353.png" />		</div>
+		<div class="b-person__content">
+		<strong class="b-person__name">Magdalena Musial-Grübel</strong>
+					<div class="b-person__info">
+									<div class="b-person__position">People & Development Manager</div>
+											</div>
+							<a href="mailto:&#106;&#111;&#98;&#115;&#64;bl&#117;e&#111;&#114;&#99;har&#100;&#46;co&#109;">job&#115;&#64;b&#108;ue&#111;rch&#97;&#114;d.co&#109;</a>
+			</div>
+</div>
+						</div>
+																									<div class="col-lg-6">
+														<div class="b-person b-person--layout-horizontal">
+			<div class="b-person__photo">
+			<img width="600" height="600" src="" class="img-cover lazyload wp-post-image" alt="" decoding="async" srcset="" sizes="(max-width: 600px) 100vw, 600px" data-src="https://www.blueorchard.com/wp-content/uploads/2022/08/Employees_Website-24.png" data-srcset="https://www.blueorchard.com/wp-content/uploads/2022/08/Employees_Website-24.png 600w, https://www.blueorchard.com/wp-content/uploads/2022/08/Employees_Website-24-300x300.png 300w, https://www.blueorchard.com/wp-content/uploads/2022/08/Employees_Website-24-150x150.png 150w" />		</div>
+		<div class="b-person__content">
+		<strong class="b-person__name">Daeun Lee</strong>
+					<div class="b-person__info">
+									<div class="b-person__position">People & Development Manager </div>
+											</div>
+							<a href="mailto:&#106;&#111;&#98;s&#64;&#98;&#108;u&#101;o&#114;&#99;h&#97;&#114;&#100;.&#99;o&#109;">j&#111;&#98;s&#64;blueo&#114;&#99;&#104;ar&#100;.&#99;o&#109;</a>
+			</div>
+</div>
+						</div>
+																</div>
+		</div>
+	</section>
+			
+		<section class="m-slider-cards bg-white">
+			<div class="container">
+				<div class="swiper slider-cards">
+					<div class="swiper-wrapper">
+													<div class="swiper-slide">
+								
+<div class="b-card">
+			<div class="b-card__image">
+			<figure class="b-image">
+				<img width="600" height="600" src="" class="img-cover lazyload" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 600px) 100vw, 600px" data-src="https://www.blueorchard.com/wp-content/uploads/2022/06/Employees_Website-1.png" data-srcset="https://www.blueorchard.com/wp-content/uploads/2022/06/Employees_Website-1.png 600w, https://www.blueorchard.com/wp-content/uploads/2022/06/Employees_Website-1-300x300.png 300w, https://www.blueorchard.com/wp-content/uploads/2022/06/Employees_Website-1-150x150.png 150w" />			</figure>
+		</div>
+		<div class="b-card__content">
+					<h4 class="b-card__title">Veronika Giusti-Keller </h4>
+							<span class="b-card__subtitle">Head of Impact Management - Geneva, Switzerland</span>
+							<div class="b-card__text"><blockquote><p>“Growing up in a developing country and experiencing first-hand that basic services are not available everywhere, I decided to develop my career as an economist in an industry that can help drive change. I joined BlueOrchard because I believe impact investing is a powerful tool for making a scalable contribution to social and environmental needs.”</p></blockquote></div>
+							<div class="b-card__button">
+								    <span class="h5 b-card__button-title">Get to know the BlueOrchard team</span>
+								<a class="btn" href="https://www.blueorchard.com/category/meet-the-team/" target="_blank">News &amp; Insights</a>
+			</div>
+			</div>
+</div>
+							</div>
+													<div class="swiper-slide">
+								
+<div class="b-card">
+			<div class="b-card__image">
+			<figure class="b-image">
+				<img width="640" height="640" src="" class="img-cover lazyload" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 640px) 100vw, 640px" data-src="https://www.blueorchard.com/wp-content/uploads/2022/06/Gustavo-pic-Website_Careers-page-scaled-e1659984120128-1024x1024.jpg" data-srcset="https://www.blueorchard.com/wp-content/uploads/2022/06/Gustavo-pic-Website_Careers-page-scaled-e1659984120128-1024x1024.jpg 1024w, https://www.blueorchard.com/wp-content/uploads/2022/06/Gustavo-pic-Website_Careers-page-scaled-e1659984120128-300x300.jpg 300w, https://www.blueorchard.com/wp-content/uploads/2022/06/Gustavo-pic-Website_Careers-page-scaled-e1659984120128-150x150.jpg 150w, https://www.blueorchard.com/wp-content/uploads/2022/06/Gustavo-pic-Website_Careers-page-scaled-e1659984120128-768x768.jpg 768w, https://www.blueorchard.com/wp-content/uploads/2022/06/Gustavo-pic-Website_Careers-page-scaled-e1659984120128-1536x1536.jpg 1536w, https://www.blueorchard.com/wp-content/uploads/2022/06/Gustavo-pic-Website_Careers-page-scaled-e1659984120128.jpg 1920w" />			</figure>
+		</div>
+		<div class="b-card__content">
+					<h4 class="b-card__title">Gustavo Muchotrigo </h4>
+							<span class="b-card__subtitle">Senior Investment Officer - Lima, Peru</span>
+							<div class="b-card__text"><blockquote><p>“Working at BlueOrchard gives me the opportunity to make my own contribution to including the excluded. I was motivated by the fact that I can contribute to the common good – that was true 11 years ago when I joined BlueOrchard, and it is still true today. BlueOrchard is unique because of the people who motivate me and encourage me to keep doing my best.”</p></blockquote></div>
+							<div class="b-card__button">
+								    <span class="h5 b-card__button-title">Get to know the BlueOrchard team</span>
+								<a class="btn" href="https://www.blueorchard.com/category/meet-the-team/" target="_blank">News &amp; Insights</a>
+			</div>
+			</div>
+</div>
+							</div>
+													<div class="swiper-slide">
+								
+<div class="b-card">
+			<div class="b-card__image">
+			<figure class="b-image">
+				<img width="640" height="853" src="" class="img-cover lazyload" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 640px) 100vw, 640px" data-src="https://www.blueorchard.com/wp-content/uploads/2022/08/Image-768x1024.jpeg" data-srcset="https://www.blueorchard.com/wp-content/uploads/2022/08/Image-768x1024.jpeg 768w, https://www.blueorchard.com/wp-content/uploads/2022/08/Image-225x300.jpeg 225w, https://www.blueorchard.com/wp-content/uploads/2022/08/Image-1152x1536.jpeg 1152w, https://www.blueorchard.com/wp-content/uploads/2022/08/Image-1536x2048.jpeg 1536w, https://www.blueorchard.com/wp-content/uploads/2022/08/Image-scaled.jpeg 1920w" />			</figure>
+		</div>
+		<div class="b-card__content">
+					<h4 class="b-card__title">Yvonne Gong </h4>
+							<span class="b-card__subtitle">Private Equity Analyst - Singapore</span>
+							<div class="b-card__text"><blockquote><p>“What I like most about working at BlueOrchard is the value we create with our portfolio companies. As a shareholder with a strong impact orientation, we work closely with all our portfolio companies, helping them grow and succeed while pursuing a strong impact mission.”</p></blockquote></div>
+							<div class="b-card__button">
+								    <span class="h5 b-card__button-title">Get to know the BlueOrchard team</span>
+								<a class="btn" href="https://www.blueorchard.com/category/meet-the-team/" target="_blank">News &amp; Insights</a>
+			</div>
+			</div>
+</div>
+							</div>
+											</div>
+					<div class="swiper-pagination"></div>
+					<div class="swiper-button swiper-next">
+						<span>Next</span>
+						<svg>
+							<use xlink:href="#angle-big-right"></use>
+						</svg>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="m-cta b-block text-center bg-grey">
+	<div class="container">
+		<div class="row align-items-center justify-content-center">
+			<div class="col-md">
+								<h2 class="h2 b-title h2-md">Learn more about BlueOrchard</h2>
+																			<a class="btn"
+					   href="https://www.blueorchard.com/company/" >Company</a>
+									</div>
+
+			</div>
+	</div>
+</section>
+
+
+
+</main><!-- /.site-content -->
+
+<footer class="footer">
+	<section class="footer__main">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg footer__main-left">
+																<div class="footer__offices js-tabs">
+							<div class="footer__offices-titles">
+																	<div class="js-tab-title active" data-item="office-1">Zurich</div>
+																		<div class="js-tab-title " data-item="office-2">Geneva</div>
+																		<div class="js-tab-title " data-item="office-3">Luxembourg</div>
+																		<div class="js-tab-title " data-item="office-4">Lima</div>
+																		<div class="js-tab-title " data-item="office-5">Nairobi</div>
+																		<div class="js-tab-title " data-item="office-6">Tbilisi</div>
+																		<div class="js-tab-title " data-item="office-7">Singapore</div>
+																</div>
+							<div class="footer__offices-content">
+																	<div class="js-tab-content active" id="office-1">
+																															<p>BlueOrchard Finance Ltd<br />
+Seefeldstrasse 233<br />
+8008 Zurich<br />
+Switzerland</p>
+																															<div><a href="tel:http://+41%2044%20441%2055%2050">+41 44 441 55 50</a></div>
+																															<div><a href="mailto:http://info.zurich@blueorchard.com">info.zurich@blueorchard.com</a></div>
+																													</div>
+																		<div class="js-tab-content " id="office-2">
+																															<p>BlueOrchard Finance Ltd.<br />
+Rue du Commerce 9<br />
+1204 Geneva<br />
+Switzerland</p>
+																															<div><a href="tel:http://+41%2022%20596%2047%2077">+41 22 596 47 77</a></div>
+																															<div><a href="mailto:http://info.geneva@blueorchard.com">info.geneva@blueorchard.com</a></div>
+																													</div>
+																		<div class="js-tab-content " id="office-3">
+																															<p>BlueOrchard Asset Management<br />
+(Luxembourg) S.A.<br />
+1, rue Goethe<br />
+1637 Luxembourg<br />
+Luxembourg</p>
+																															<div><a href="tel:http://+352%2026482186">+352 26482186</a></div>
+																															<div><a href="mailto:http://info.luxembourg@blueorchard.com">info.luxembourg@blueorchard.com</a></div>
+																																																																				<div><a href="https://www.blueorchard.com/wp-content/uploads/Legal%20documents/Complaint-Policy-2020-08.pdf" target="_blank" rel="nofollow">
+															<svg width="14" height="14">
+																<use xlink:href="#document"></use>
+															</svg> Complaint Policy</a></div>
+																																																												<div><a href="https://www.blueorchard.com/wp-content/uploads/Legal%20documents/Remuneration_Policy.pdf" target="_blank" rel="nofollow">
+															<svg width="14" height="14">
+																<use xlink:href="#document"></use>
+															</svg> Renumeration Policy</a></div>
+																																																												<div><a href="https://www.blueorchard.com/wp-content/uploads/Legal%20documents/Voting-Policy_V2-112021.pdf" target="_blank" rel="nofollow">
+															<svg width="14" height="14">
+																<use xlink:href="#document"></use>
+															</svg> Voting Policy</a></div>
+																																										</div>
+																		<div class="js-tab-content " id="office-4">
+																															<p>BlueOrchard America Latina S.A.C.<br />
+Calle Dean <br />
+Valdivia 227<br />
+Office 501<br />
+San Isidro, Lima<br />
+Peru<br />
+</p>
+																															<div><a href="tel:http://+511%20701%209133%20">+511 701 9133 </a></div>
+																															<div><a href="mailto:http://info.lima@blueorchard.com">info.lima@blueorchard.com</a></div>
+																													</div>
+																		<div class="js-tab-content " id="office-5">
+																															<p>BlueOrchard Finance S.A.<br />
+Office 1103 Riverside Drive<br />
+11th Floor<br />
+Kofisi Square, West Wing<br />
+Nairobi <br />
+Kenya </p>
+																															<div><a href="tel:http://+254%20745%20237%20750">+254 745 237 750</a></div>
+																															<div><a href="mailto:http://info.nairobi@blueorchard.com">info.nairobi@blueorchard.com</a></div>
+																													</div>
+																		<div class="js-tab-content " id="office-6">
+																															<p>Representative Office of<br />
+BlueOrchard Finance S.A.<br />
+Chavchavadze Avenue 64a<br />
+11th Floor<br />
+0162 Tbilisi<br />
+Georgia<br />
+</p>
+																															<div><a href="tel:http://+995%2032%20290%2071%2066">+995 32 290 71 66</a></div>
+																															<div><a href="mailto:http://info.tbilisi@blueorchard.com">info.tbilisi@blueorchard.com</a></div>
+																													</div>
+																		<div class="js-tab-content " id="office-7">
+																															<p>BlueOrchard Investments<br />
+(Singapore) PTE. Ltd.<br />
+138 Market Street #23-01<br />
+CapitaGreen<br />
+Singapore 048946<br />
+</p>
+																															<div><a href="tel:http://+65%206692%209126">+65 6692 9126</a></div>
+																															<div><a href="mailto:http://info.singapore@blueorchard.com">info.singapore@blueorchard.com</a></div>
+																													</div>
+																</div>
+						</div>
+									</div>
+
+				<div class="col-6 col-lg">
+											<aside id="block-7" class="widget widget_block widget_media_image">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="567" height="400" src="https://www.blueorchard.com/wp-content/uploads/2022/05/assetmanager-2021.png" alt="" class="wp-image-6977" srcset="https://www.blueorchard.com/wp-content/uploads/2022/05/assetmanager-2021.png 567w, https://www.blueorchard.com/wp-content/uploads/2022/05/assetmanager-2021-300x212.png 300w" sizes="(max-width: 567px) 100vw, 567px" /></figure>
+</aside>									</div>
+
+				<div class="col-6 col-lg footer__main-right">
+											<aside id="block-8" class="widget widget_block widget_media_image">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="401" height="400" src="https://www.blueorchard.com/wp-content/uploads/2022/05/LogoClimateNeutral.png" alt="" class="wp-image-6978" srcset="https://www.blueorchard.com/wp-content/uploads/2022/05/LogoClimateNeutral.png 401w, https://www.blueorchard.com/wp-content/uploads/2022/05/LogoClimateNeutral-300x300.png 300w, https://www.blueorchard.com/wp-content/uploads/2022/05/LogoClimateNeutral-150x150.png 150w" sizes="(max-width: 401px) 100vw, 401px" /></figure>
+</aside>									</div>
+
+				
+	<div class="b-socials">
+															<a class="b-socials__item" href="https://www.linkedin.com/company/blueorchard-finance-ltd" target="_blank" rel="nofollow">
+					<svg class="icon-linkedin">
+						<use xlink:href="#linkedin"></use>
+					</svg>
+				</a>
+																		<a class="b-socials__item" href="https://www.instagram.com/blueorchardfinance" target="_blank" rel="nofollow">
+					<svg class="icon-instagram">
+						<use xlink:href="#instagram"></use>
+					</svg>
+				</a>
+																		<a class="b-socials__item" href="https://twitter.com/blueorchardltd" target="_blank" rel="nofollow">
+					<svg class="icon-twitter">
+						<use xlink:href="#twitter"></use>
+					</svg>
+				</a>
+																		<a class="b-socials__item" href="https://www.youtube.com/channel/UC3KhhHPK-2-J8KBgUO_aTEw" target="_blank" rel="nofollow">
+					<svg class="icon-youtube">
+						<use xlink:href="#youtube"></use>
+					</svg>
+				</a>
+						</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="footer__bottom">
+		<div class="container">
+			<div class="row flex-lg-row-reverse">
+				<div class="col">
+					<div class="footer-links__container"><ul id="menu-footer-links" class="footer-links"><li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="https://www.blueorchard.com/imprint/">Imprint</a></li>
+<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://www.blueorchard.com/legal-documents/">Legal Documents</a></li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://www.blueorchard.com/sustainability-disclosure-documents/">Sustainability-related Disclosures</a></li>
+</ul></div>				</div>
+				<div class="col-lg-4">© 2023 BlueOrchard Finance Ltd</div>
+			</div>
+		</div>
+	</section>
+</footer>
+
+	<script>
+		!function(n,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):(n=n||self).LazyLoad=t()}(this,(function(){"use strict";function n(){return(n=Object.assign||function(n){for(var t=1;t<arguments.length;t++){var e=arguments[t];for(var i in e)Object.prototype.hasOwnProperty.call(e,i)&&(n[i]=e[i])}return n}).apply(this,arguments)}var t="undefined"!=typeof window,e=t&&!("onscroll"in window)||"undefined"!=typeof navigator&&/(gle|ing|ro)bot|crawl|spider/i.test(navigator.userAgent),i=t&&"IntersectionObserver"in window,a=t&&"classList"in document.createElement("p"),o=t&&window.devicePixelRatio>1,r={elements_selector:".lazy",container:e||t?document:null,threshold:300,thresholds:null,data_src:"src",data_srcset:"srcset",data_sizes:"sizes",data_bg:"bg",data_bg_hidpi:"bg-hidpi",data_bg_multi:"bg-multi",data_bg_multi_hidpi:"bg-multi-hidpi",data_poster:"poster",class_applied:"applied",class_loading:"loading",class_loaded:"loaded",class_error:"error",unobserve_completed:!0,unobserve_entered:!1,cancel_on_exit:!0,callback_enter:null,callback_exit:null,callback_applied:null,callback_loading:null,callback_loaded:null,callback_error:null,callback_finish:null,callback_cancel:null,use_native:!1},c=function(t){return n({},r,t)},l=function(n,t){var e,i=new n(t);try{e=new CustomEvent("LazyLoad::Initialized",{detail:{instance:i}})}catch(n){(e=document.createEvent("CustomEvent")).initCustomEvent("LazyLoad::Initialized",!1,!1,{instance:i})}window.dispatchEvent(e)},s=function(n,t){return n.getAttribute("data-"+t)},u=function(n,t,e){var i="data-"+t;null!==e?n.setAttribute(i,e):n.removeAttribute(i)},d=function(n){return s(n,"ll-status")},f=function(n,t){return u(n,"ll-status",t)},_=function(n){return f(n,null)},g=function(n){return null===d(n)},v=function(n){return"native"===d(n)},p=["loading","loaded","applied","error"],b=function(n,t,e,i){n&&(void 0===i?void 0===e?n(t):n(t,e):n(t,e,i))},h=function(n,t){a?n.classList.add(t):n.className+=(n.className?" ":"")+t},m=function(n,t){a?n.classList.remove(t):n.className=n.className.replace(new RegExp("(^|\\s+)"+t+"(\\s+|$)")," ").replace(/^\s+/,"").replace(/\s+$/,"")},E=function(n){return n.llTempImage},I=function(n,t){if(t){var e=t._observer;e&&e.unobserve(n)}},y=function(n,t){n&&(n.loadingCount+=t)},A=function(n,t){n&&(n.toLoadCount=t)},L=function(n){for(var t,e=[],i=0;t=n.children[i];i+=1)"SOURCE"===t.tagName&&e.push(t);return e},w=function(n,t,e){e&&n.setAttribute(t,e)},z=function(n,t){n.removeAttribute(t)},k=function(n){return!!n.llOriginalAttrs},O=function(n){if(!k(n)){var t={};t.src=n.getAttribute("src"),t.srcset=n.getAttribute("srcset"),t.sizes=n.getAttribute("sizes"),n.llOriginalAttrs=t}},C=function(n){if(k(n)){var t=n.llOriginalAttrs;w(n,"src",t.src),w(n,"srcset",t.srcset),w(n,"sizes",t.sizes)}},N=function(n,t){w(n,"sizes",s(n,t.data_sizes)),w(n,"srcset",s(n,t.data_srcset)),w(n,"src",s(n,t.data_src))},x=function(n){z(n,"src"),z(n,"srcset"),z(n,"sizes")},M=function(n,t){var e=n.parentNode;e&&"PICTURE"===e.tagName&&L(e).forEach(t)},R=function(n,t){L(n).forEach(t)},G={IMG:function(n,t){M(n,(function(n){O(n),N(n,t)})),O(n),N(n,t)},IFRAME:function(n,t){w(n,"src",s(n,t.data_src))},VIDEO:function(n,t){R(n,(function(n){w(n,"src",s(n,t.data_src))})),w(n,"poster",s(n,t.data_poster)),w(n,"src",s(n,t.data_src)),n.load()}},T=function(n,t){var e=G[n.tagName];e&&e(n,t)},D=function(n,t,e){y(e,1),h(n,t.class_loading),f(n,"loading"),b(t.callback_loading,n,e)},F={IMG:function(n,t){u(n,t.data_src,null),u(n,t.data_srcset,null),u(n,t.data_sizes,null),M(n,(function(n){u(n,t.data_srcset,null),u(n,t.data_sizes,null)}))},IFRAME:function(n,t){u(n,t.data_src,null)},VIDEO:function(n,t){u(n,t.data_src,null),u(n,t.data_poster,null),R(n,(function(n){u(n,t.data_src,null)}))}},V=function(n,t){u(n,t.data_bg_multi,null),u(n,t.data_bg_multi_hidpi,null)},j=function(n,t){var e=F[n.tagName];e?e(n,t):function(n,t){u(n,t.data_bg,null),u(n,t.data_bg_hidpi,null)}(n,t)},P=["IMG","IFRAME","VIDEO"],S=function(n,t){!t||function(n){return n.loadingCount>0}(t)||function(n){return n.toLoadCount>0}(t)||b(n.callback_finish,t)},U=function(n,t,e){n.addEventListener(t,e),n.llEvLisnrs[t]=e},$=function(n,t,e){n.removeEventListener(t,e)},q=function(n){return!!n.llEvLisnrs},H=function(n){if(q(n)){var t=n.llEvLisnrs;for(var e in t){var i=t[e];$(n,e,i)}delete n.llEvLisnrs}},B=function(n,t,e){!function(n){delete n.llTempImage}(n),y(e,-1),function(n){n&&(n.toLoadCount-=1)}(e),m(n,t.class_loading),t.unobserve_completed&&I(n,e)},J=function(n,t,e){var i=E(n)||n;q(i)||function(n,t,e){q(n)||(n.llEvLisnrs={});var i="VIDEO"===n.tagName?"loadeddata":"load";U(n,i,t),U(n,"error",e)}(i,(function(a){!function(n,t,e,i){var a=v(t);B(t,e,i),h(t,e.class_loaded),f(t,"loaded"),j(t,e),b(e.callback_loaded,t,i),a||S(e,i)}(0,n,t,e),H(i)}),(function(a){!function(n,t,e,i){var a=v(t);B(t,e,i),h(t,e.class_error),f(t,"error"),b(e.callback_error,t,i),a||S(e,i)}(0,n,t,e),H(i)}))},K=function(n,t,e){!function(n){n.llTempImage=document.createElement("IMG")}(n),J(n,t,e),function(n,t,e){var i=s(n,t.data_bg),a=s(n,t.data_bg_hidpi),r=o&&a?a:i;r&&(n.style.backgroundImage='url("'.concat(r,'")'),E(n).setAttribute("src",r),D(n,t,e))}(n,t,e),function(n,t,e){var i=s(n,t.data_bg_multi),a=s(n,t.data_bg_multi_hidpi),r=o&&a?a:i;r&&(n.style.backgroundImage=r,function(n,t,e){h(n,t.class_applied),f(n,"applied"),V(n,t),t.unobserve_completed&&I(n,t),b(t.callback_applied,n,e)}(n,t,e))}(n,t,e)},Q=function(n,t,e){!function(n){return P.indexOf(n.tagName)>-1}(n)?K(n,t,e):function(n,t,e){J(n,t,e),T(n,t),D(n,t,e)}(n,t,e)},W=["IMG","IFRAME"],X=function(n){return n.use_native&&"loading"in HTMLImageElement.prototype},Y=function(n,t,e){n.forEach((function(n){return function(n){return n.isIntersecting||n.intersectionRatio>0}(n)?function(n,t,e,i){f(n,"entered"),function(n,t,e){t.unobserve_entered&&I(n,e)}(n,e,i),b(e.callback_enter,n,t,i),function(n){return p.indexOf(d(n))>=0}(n)||Q(n,e,i)}(n.target,n,t,e):function(n,t,e,i){g(n)||(function(n,t,e,i){e.cancel_on_exit&&function(n){return"loading"===d(n)}(n)&&"IMG"===n.tagName&&(H(n),function(n){M(n,(function(n){x(n)})),x(n)}(n),function(n){M(n,(function(n){C(n)})),C(n)}(n),m(n,e.class_loading),y(i,-1),_(n),b(e.callback_cancel,n,t,i))}(n,t,e,i),b(e.callback_exit,n,t,i))}(n.target,n,t,e)}))},Z=function(n){return Array.prototype.slice.call(n)},nn=function(n){return n.container.querySelectorAll(n.elements_selector)},tn=function(n){return function(n){return"error"===d(n)}(n)},en=function(n,t){return function(n){return Z(n).filter(g)}(n||nn(t))},an=function(n,e){var a=c(n);this._settings=a,this.loadingCount=0,function(n,t){i&&!X(n)&&(t._observer=new IntersectionObserver((function(e){Y(e,n,t)}),function(n){return{root:n.container===document?null:n.container,rootMargin:n.thresholds||n.threshold+"px"}}(n)))}(a,this),function(n,e){t&&window.addEventListener("online",(function(){!function(n,t){var e;(e=nn(n),Z(e).filter(tn)).forEach((function(t){m(t,n.class_error),_(t)})),t.update()}(n,e)}))}(a,this),this.update(e)};return an.prototype={update:function(n){var t,a,o=this._settings,r=en(n,o);A(this,r.length),!e&&i?X(o)?function(n,t,e){n.forEach((function(n){-1!==W.indexOf(n.tagName)&&(n.setAttribute("loading","lazy"),function(n,t,e){J(n,t,e),T(n,t),j(n,t),f(n,"native")}(n,t,e))})),A(e,0)}(r,o,this):(a=r,function(n){n.disconnect()}(t=this._observer),function(n,t){t.forEach((function(t){n.observe(t)}))}(t,a)):this.loadAll(r)},destroy:function(){this._observer&&this._observer.disconnect(),nn(this._settings).forEach((function(n){delete n.llOriginalAttrs})),delete this._observer,delete this._settings,delete this.loadingCount,delete this.toLoadCount},loadAll:function(n){var t=this,e=this._settings;en(n,e).forEach((function(n){I(n,t),Q(n,e,t)}))}},an.load=function(n,t){var e=c(t);Q(n,e)},an.resetStatus=function(n){_(n)},t&&function(n,t){if(t)if(t.length)for(var e,i=0;e=t[i];i+=1)l(n,e);else l(n,t)}(an,window.lazyLoadOptions),an}));
+		var lazyLoadInstance = new LazyLoad( {
+			elements_selector: ".lazyload",
+			threshold: 500
+			// ... more custom settings?
+		} );
+	</script>
+	<!--googleoff: all--><div data-nosnippet><script id="BorlabsCookieBoxWrap" type="text/template"><div
+    id="BorlabsCookieBox"
+    class="BorlabsCookie"
+    role="dialog"
+    aria-labelledby="CookieBoxTextHeadline"
+    aria-describedby="CookieBoxTextDescription"
+    aria-modal="true"
+>
+    <div class="middle-center" style="display: none;">
+        <div class="_brlbs-box-wrap">
+            <div class="_brlbs-box _brlbs-box-advanced">
+                <div class="cookie-box">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="_brlbs-flex-center">
+                                    
+                                    <span role="heading" aria-level="3" class="_brlbs-h3" id="CookieBoxTextHeadline">Privacy Preference</span>
+                                </div>
+
+                                <p id="CookieBoxTextDescription"><span class="_brlbs-paragraph _brlbs-text-description">BlueOrchard website uses cookies to personalize content, analyze our traffic and thus improve your site experience. You can either agree to the use of all coolies by clicking “Accept all cookies” or select “Manage cookies” to choose which types of cookies you wish to accept. You can change your preferences at any time.<br />
+<br />
+For BlueOrchard, the security of your data is highest priority. To learn more about our cookies, visit our Cookie Policy and our Privacy Policy.</span></p>
+
+                                                                    <fieldset>
+                                        <legend class="sr-only">Privacy Preference</legend>
+                                        <ul>
+                                                                                                <li>
+                                                        <label class="_brlbs-checkbox">
+                                                            Essential                                                            <input
+                                                                id="checkbox-essential"
+                                                                tabindex="0"
+                                                                type="checkbox"
+                                                                name="cookieGroup[]"
+                                                                value="essential"
+                                                                 checked                                                                 disabled                                                                data-borlabs-cookie-checkbox
+                                                            >
+                                                            <span class="_brlbs-checkbox-indicator"></span>
+                                                        </label>
+                                                    </li>
+                                                                                                    <li>
+                                                        <label class="_brlbs-checkbox">
+                                                            Marketing                                                            <input
+                                                                id="checkbox-marketing"
+                                                                tabindex="0"
+                                                                type="checkbox"
+                                                                name="cookieGroup[]"
+                                                                value="marketing"
+                                                                 checked                                                                                                                                data-borlabs-cookie-checkbox
+                                                            >
+                                                            <span class="_brlbs-checkbox-indicator"></span>
+                                                        </label>
+                                                    </li>
+                                                                                                    <li>
+                                                        <label class="_brlbs-checkbox">
+                                                            External Media                                                            <input
+                                                                id="checkbox-external-media"
+                                                                tabindex="0"
+                                                                type="checkbox"
+                                                                name="cookieGroup[]"
+                                                                value="external-media"
+                                                                 checked                                                                                                                                data-borlabs-cookie-checkbox
+                                                            >
+                                                            <span class="_brlbs-checkbox-indicator"></span>
+                                                        </label>
+                                                    </li>
+                                                                                        </ul>
+                                    </fieldset>
+
+                                    
+                                                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            data-cookie-accept-all
+                                        >
+                                            Accept all                                        </a>
+                                    </p>
+
+                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            id="CookieBoxSaveButton"
+                                            class="_brlbs-btn _brlbs-cursor"
+                                            data-cookie-accept
+                                        >
+                                            Save                                        </a>
+                                    </p>
+                                
+                                
+                                <p class="_brlbs-manage-btn ">
+                                    <a href="#" class="_brlbs-cursor _brlbs-btn " tabindex="0" role="button" data-cookie-individual>
+                                        Manage cookies                                    </a>
+                                </p>
+
+                                <p class="_brlbs-legal">
+                                    <a href="#" class="_brlbs-cursor" tabindex="0" role="button" data-cookie-individual>
+                                        Cookie Details                                    </a>
+
+                                                                            <span class="_brlbs-separator"></span>
+                                        <a href="https://www.blueorchard.com/wp-content/uploads/2022/08/BOF-Privacy-policy_30-August-2022.pdf" tabindex="0" role="button">
+                                            Privacy Policy                                        </a>
+                                    
+                                                                            <span class="_brlbs-separator"></span>
+                                        <a href="https://www.blueorchard.com/imprint/" tabindex="0" role="button">
+                                            Imprint                                        </a>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+    class="cookie-preference"
+    aria-hidden="true"
+    role="dialog"
+    aria-describedby="CookiePrefDescription"
+    aria-modal="true"
+>
+    <div class="container not-visible">
+        <div class="row no-gutters">
+            <div class="col-12">
+                <div class="row no-gutters align-items-top">
+                    <div class="col-12">
+                        <div class="_brlbs-flex-center">
+                                                    <span role="heading" aria-level="3" class="_brlbs-h3">Privacy Preference</span>
+                        </div>
+
+                        <p id="CookiePrefDescription">
+                            <span class="_brlbs-paragraph _brlbs-text-description">We partly need your consent to the use of cookies as indicated below before you can continue your visit of our website.<br />
+<br />
+We use cookies on our website, some of which are essential, while others assist to improve your experience and the website. Personal data may be processed (e.g. your IP address) for example for content measurement (for more information please see our Privacy Policy). You can change your cookie preference anytime (please see our Cookie Policy). <br />
+<br />
+Please note: There may be services which process personal data in the USA. The USA do not provide equally sufficient data protection according to Swiss and EU standards. With your consent to use these services you also agree to the processing of your data in the USA in accordance with Art. 4 para. 5 FADP, Art. 6 para. 1 lit a, and Art. 49 para. 1 lit. a GDPR. </span>                        </p>
+
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-12 col-sm-7">
+                                <p class="_brlbs-accept">
+                                                                            <a
+                                            href="#"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            tabindex="0"
+                                            role="button"
+                                            data-cookie-accept-all
+                                        >
+                                            Accept all                                        </a>
+                                        
+                                    <a
+                                        href="#"
+                                        id="CookiePrefSave"
+                                        tabindex="0"
+                                        role="button"
+                                        class="_brlbs-btn _brlbs-cursor"
+                                        data-cookie-accept
+                                    >
+                                        Save                                    </a>
+
+                                                                    </p>
+                            </div>
+
+                            <div class="col-12 col-sm-5">
+                                <p class="_brlbs-refuse">
+                                    <a
+                                        href="#"
+                                        class="_brlbs-cursor"
+                                        tabindex="0"
+                                        role="button"
+                                        data-cookie-back
+                                    >
+                                        Back                                    </a>
+
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div data-cookie-accordion>
+                                            <fieldset>
+                            <legend class="sr-only">Privacy Preference</legend>
+
+                                                                                                <div class="bcac-item">
+                                        <div class="d-flex flex-row">
+                                            <label class="w-75">
+                                                <span role="heading" aria-level="4" class="_brlbs-h4">Essential (1)</span>
+                                            </label>
+
+                                            <div class="w-25 text-right">
+                                                                                            </div>
+                                        </div>
+
+                                        <div class="d-block">
+                                            <p>Our website uses cookies, which are necessary for the technical functionality of our website, for the detection of errors and security-relevant anomalies or to offer a service or option you have requested. Whilst these cookies cannot be turned off, they do not store any personal data about you. If you are reluctant to accept use of them, we advise you navigate away from this website.<br />
+</p>
+
+                                            <p class="text-center">
+                                                <a
+                                                    href="#"
+                                                    class="_brlbs-cursor d-block"
+                                                    tabindex="0"
+                                                    role="button"
+                                                    data-cookie-accordion-target="essential"
+                                                >
+                                                    <span data-cookie-accordion-status="show">
+                                                        Show Cookie Information                                                    </span>
+
+                                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                        Hide Cookie Information                                                    </span>
+                                                </a>
+                                            </p>
+                                        </div>
+
+                                        <div
+                                            class="borlabs-hide"
+                                            data-cookie-accordion-parent="essential"
+                                        >
+                                                                                            <table>
+                                                    
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Borlabs Cookie                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Provider</th>
+                                                        <td>Owner of this website<span>, </span><a href="https://www.blueorchard.com/imprint/">Imprint</a></td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Purpose</th>
+                                                            <td>Saves the visitors preferences selected in the Cookie Box of Borlabs Cookie.</td>
+                                                        </tr>
+                                                        
+                                                    
+                                                    
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>borlabs-cookie</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Expiry</th>
+                                                            <td>1 Year</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                        </div>
+                                    </div>
+                                                                                                                                        <div class="bcac-item">
+                                        <div class="d-flex flex-row">
+                                            <label class="w-75">
+                                                <span role="heading" aria-level="4" class="_brlbs-h4">Marketing (1)</span>
+                                            </label>
+
+                                            <div class="w-25 text-right">
+                                                                                                    <label class="_brlbs-btn-switch">
+                                                        <span class="sr-only">Marketing</span>
+                                                        <input
+                                                            tabindex="0"
+                                                            id="borlabs-cookie-group-marketing"
+                                                            type="checkbox"
+                                                            name="cookieGroup[]"
+                                                            value="marketing"
+                                                             checked                                                            data-borlabs-cookie-switch
+                                                        />
+                                                        <span class="_brlbs-slider"></span>
+                                                        <span
+                                                            class="_brlbs-btn-switch-status"
+                                                            data-active="On"
+                                                            data-inactive="Off">
+                                                        </span>
+                                                    </label>
+                                                                                                </div>
+                                        </div>
+
+                                        <div class="d-block">
+                                            <p>Marketing cookies are used by third-party advertisers or publishers to display personalized ads. They do this by tracking visitors across websites.</p>
+
+                                            <p class="text-center">
+                                                <a
+                                                    href="#"
+                                                    class="_brlbs-cursor d-block"
+                                                    tabindex="0"
+                                                    role="button"
+                                                    data-cookie-accordion-target="marketing"
+                                                >
+                                                    <span data-cookie-accordion-status="show">
+                                                        Show Cookie Information                                                    </span>
+
+                                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                        Hide Cookie Information                                                    </span>
+                                                </a>
+                                            </p>
+                                        </div>
+
+                                        <div
+                                            class="borlabs-hide"
+                                            data-cookie-accordion-parent="marketing"
+                                        >
+                                                                                            <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Accept</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Google Analytics</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-google-analytics"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="marketing"
+                                                                        name="cookies[marketing][]"
+                                                                        value="google-analytics"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="On"
+                                                                        data-inactive="Off"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Google Analytics                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Provider</th>
+                                                        <td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Purpose</th>
+                                                            <td>Cookie by Google used for website analytics. Generates statistical data on how the visitor uses the website.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Privacy Policy</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://policies.google.com/privacy?hl=en"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://policies.google.com/privacy?hl=en                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>_ga,_gat,_gid</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Expiry</th>
+                                                            <td>2 Months</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                        </div>
+                                    </div>
+                                                                                                                                        <div class="bcac-item">
+                                        <div class="d-flex flex-row">
+                                            <label class="w-75">
+                                                <span role="heading" aria-level="4" class="_brlbs-h4">External Media (2)</span>
+                                            </label>
+
+                                            <div class="w-25 text-right">
+                                                                                                    <label class="_brlbs-btn-switch">
+                                                        <span class="sr-only">External Media</span>
+                                                        <input
+                                                            tabindex="0"
+                                                            id="borlabs-cookie-group-external-media"
+                                                            type="checkbox"
+                                                            name="cookieGroup[]"
+                                                            value="external-media"
+                                                             checked                                                            data-borlabs-cookie-switch
+                                                        />
+                                                        <span class="_brlbs-slider"></span>
+                                                        <span
+                                                            class="_brlbs-btn-switch-status"
+                                                            data-active="On"
+                                                            data-inactive="Off">
+                                                        </span>
+                                                    </label>
+                                                                                                </div>
+                                        </div>
+
+                                        <div class="d-block">
+                                            <p>Content from video platforms (e.g. Vimeo or Youtube) and social media platforms (e.g. Twitter) is blocked by default. Access to this content does not require manual consent if you accept cookies from external media.<br />
+</p>
+
+                                            <p class="text-center">
+                                                <a
+                                                    href="#"
+                                                    class="_brlbs-cursor d-block"
+                                                    tabindex="0"
+                                                    role="button"
+                                                    data-cookie-accordion-target="external-media"
+                                                >
+                                                    <span data-cookie-accordion-status="show">
+                                                        Show Cookie Information                                                    </span>
+
+                                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                        Hide Cookie Information                                                    </span>
+                                                </a>
+                                            </p>
+                                        </div>
+
+                                        <div
+                                            class="borlabs-hide"
+                                            data-cookie-accordion-parent="external-media"
+                                        >
+                                                                                            <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Accept</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Vimeo</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-vimeo"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="vimeo"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="On"
+                                                                        data-inactive="Off"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Vimeo                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Provider</th>
+                                                        <td>Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Purpose</th>
+                                                            <td>Used to unblock Vimeo content.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Privacy Policy</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://vimeo.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://vimeo.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>player.vimeo.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>vuid</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Expiry</th>
+                                                            <td>2 Years</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Accept</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">YouTube</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-youtube"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="youtube"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="On"
+                                                                        data-inactive="Off"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                YouTube                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Provider</th>
+                                                        <td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Purpose</th>
+                                                            <td>Used to unblock YouTube content.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Privacy Policy</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://policies.google.com/privacy?hl=en&#038;gl=en"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://policies.google.com/privacy?hl=en&#038;gl=en                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>google.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>NID</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Expiry</th>
+                                                            <td>6 Month</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                        </div>
+                                    </div>
+                                                                                                </fieldset>
+                                        </div>
+
+                <div class="d-flex justify-content-between">
+                    <p class="_brlbs-branding flex-fill">
+                                            </p>
+
+                    <p class="_brlbs-legal flex-fill">
+                                                    <a href="https://www.blueorchard.com/wp-content/uploads/2022/08/BOF-Privacy-policy_30-August-2022.pdf">
+                                Privacy Policy                            </a>
+                            
+                                                    <span class="_brlbs-separator"></span>
+                            
+                                                    <a href="https://www.blueorchard.com/imprint/">
+                                Imprint                            </a>
+                                                </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+</script></div><!--googleon: all--><script type='text/javascript' src='https://www.blueorchard.com/wp-content/themes/blueorchard/assets/dist/js/bodymovin.js?ver=1.0.6' id='bodymovin-js-js'></script>
+<script type='text/javascript' id='theme-js-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"ajax_url":"https:\/\/www.blueorchard.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.blueorchard.com/wp-content/themes/blueorchard/assets/dist/js/app.min.js?ver=1.0.6' id='theme-js-js'></script>
+<script type='text/javascript' id='borlabs-cookie-js-extra'>
+/* <![CDATA[ */
+var borlabsCookieConfig = {"ajaxURL":"https:\/\/www.blueorchard.com\/wp-admin\/admin-ajax.php","language":"en","animation":"","animationDelay":"","animationIn":"_brlbs-fadeInDown","animationOut":"_brlbs-flipOutX","blockContent":"1","boxLayout":"box","boxLayoutAdvanced":"1","automaticCookieDomainAndPath":"1","cookieDomain":"www.blueorchard.com","cookiePath":"\/","cookieSameSite":"Lax","cookieSecure":"1","cookieLifetime":"182","cookieLifetimeEssentialOnly":"182","crossDomainCookie":[],"cookieBeforeConsent":"","cookiesForBots":"1","cookieVersion":"3","hideCookieBoxOnPages":[],"respectDoNotTrack":"","reloadAfterConsent":"","reloadAfterOptOut":"1","showCookieBox":"1","cookieBoxIntegration":"javascript","ignorePreSelectStatus":"1","cookies":{"essential":["borlabs-cookie"],"marketing":["google-analytics"],"external-media":["vimeo","youtube"]}};
+var borlabsCookieCookies = {"essential":{"borlabs-cookie":{"cookieNameList":{"borlabs-cookie":"borlabs-cookie"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"}}},"marketing":{"google-analytics":{"cookieNameList":{"_ga":"_ga","_gat":"_gat","_gid":"_gid"},"settings":{"blockCookiesBeforeConsent":"1","prioritize":"1","asyncOptOutCode":"0","trackingId":"G-GYX0HQ5PBE","consentMode":"0"},"optInJS":"","optOutJS":""}},"external-media":{"vimeo":{"cookieNameList":{"vuid":"vuid"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInZpbWVvIik7IH08L3NjcmlwdD4=","optOutJS":""},"youtube":{"cookieNameList":{"NID":"NID"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInlvdXR1YmUiKTsgfTwvc2NyaXB0Pg==","optOutJS":""}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.blueorchard.com/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.2.66' id='borlabs-cookie-js'></script>
+<script id="borlabs-cookie-js-after" type="text/javascript">
+document.addEventListener("DOMContentLoaded", function (e) {
+var borlabsCookieContentBlocker = {"facebook": {"id": "facebook","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if(typeof FB === "object") { FB.XFBML.parse(el.parentElement); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"default": {"id": "default","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"googlemaps": {"id": "googlemaps","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"instagram": {"id": "instagram","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if (typeof instgrm === "object") { instgrm.Embeds.process(); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"openstreetmap": {"id": "openstreetmap","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"twitter": {"id": "twitter","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"vimeo": {"id": "vimeo","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"saveThumbnails":false,"autoplay":false,"videoWrapper":false}},"youtube": {"id": "youtube","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"changeURLToNoCookie":true,"saveThumbnails":false,"autoplay":false,"thumbnailQuality":"maxresdefault","videoWrapper":false}}};
+    var BorlabsCookieInitCheck = function () {
+
+    if (typeof window.BorlabsCookie === "object" && typeof window.jQuery === "function") {
+
+        if (typeof borlabsCookiePrioritized !== "object") {
+            borlabsCookiePrioritized = { optInJS: {} };
+        }
+
+        window.BorlabsCookie.init(borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker, borlabsCookiePrioritized.optInJS);
+    } else {
+        window.setTimeout(BorlabsCookieInitCheck, 50);
+    }
+};
+
+BorlabsCookieInitCheck();});
+</script>
+
+</body>
+</html>
