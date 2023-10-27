@@ -1,7 +1,9 @@
-from langchain.document_loaders import AsyncHtmlLoader
+from langchain.document_loaders import AsyncChromiumLoader
 
-def load(url):
+def load(url,to_str:bool=False):
     urls = [url]
-    loader = AsyncHtmlLoader(urls)
-    docs = loader.load()
-    return docs[0]
+    loader = AsyncChromiumLoader(urls)
+    html = loader.load()
+    if to_str:
+        return str(html[0].page_content)
+    return html[0]
