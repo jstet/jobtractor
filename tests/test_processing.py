@@ -1,5 +1,2 @@
-from jobtractor.processing import process
+from jobtractor.processing import process_for_llm
 
-def test_process_rule_based(orchard_loaded):
-    processed = process(orchard_loaded)
-    print(processed)

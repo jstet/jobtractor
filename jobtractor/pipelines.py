@@ -45,7 +45,7 @@ def wikimedia():
     url = "https://wikimediafoundation.org/about/jobs/"
     html = load(url)
     jobs = greenhouse(html, "wikimedia")
-    print(jobs)
+    return jobs
     
 
         
