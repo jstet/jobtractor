@@ -10,4 +10,4 @@ def load(url, avoid_url: str = None):
     if response.url != url and response.url == avoid_url:
         raise ValueError("The request was redirected to the URL specified to be avoided.")
 
-    return html
+    return html, response.url

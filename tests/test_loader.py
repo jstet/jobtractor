@@ -2,7 +2,7 @@ from jobtractor.loader import load
 from langchain.schema import Document
 
 def test_load():
-    doc = load("https://wikimediafoundation.org/about/jobs")
+    doc, final_url = load("https://wikimediafoundation.org/about/jobs")
     assert len(doc) > 0
     assert isinstance(doc, str)
     # save to file
