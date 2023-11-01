@@ -1,0 +1,49 @@
+Job Application for Senior Data Engineer at Wikimedia Foundation
+
+      Apply Now
+    
+Senior Data Engineer
+
+    at Wikimedia Foundation
+  
+
+      Remote
+    
+
+
+Summary
+The Wikimedia Foundation is looking for a Senior Data Engineer to join our Data Engineering team. As a Data Engineer, you will be responsible for building, maintaining, and expanding the shared data infrastructure that supports insights, research, and new data products, in the Foundation as well as the Wiki Movement. This includes everything from building scalable pipeline infrastructure, and working on the event streaming platform to providing scalable data-serving solutions.
+We are a fully remote, internationally distributed team. We see each other in person 1-2 times a year during one of our off-sites (the last few have been in places like Berlin, Copenhagen, and New York) or Wikimania, the annual international conference for the Wiki community.
+Open to candidates located in time zones UTC-8 to UTC+2. 
+You are responsible for:
+
+Building scalable data pipeline infrastructure, libraries and processes using Airflow, Spark, Flink, Kafka
+Implementing data quality monitoring that alerts the team of, possible data issues
+Implementing a data governance and lineage solution for all Wikimedia data
+Designing the shared data platform that supports use cases for critical aspects of the Wikimedia mission: product analytics, harassment prevention, image classification, bot detection, DDoS attacks flagging and many more
+Improve operational excellence of the data platform
+
+Skills and Experience:
+
+5+ years of relevant industry experience
+Advanced working knowledge of SQL, relational databases, query authoring, ideally in a variety of flavors (in our team alone we deal with MariaDB, HiveQL, CassandraQL, Spark SQL and Presto)
+Experience with one or more programming languages such as Python, Scala, and Java
+Experience building data pipelines using tools such as Airflow, Spark, Gobblin, Yarn
+Familiarity with stream processing systems using Kafka, Spark streaming and/or Flink
+Excellent written and verbal communication skills
+Strong interpersonal and collaboration skills
+BS or MS degree, preferably in Computer Science, or equivalent work experience
+
+Qualities that are important to us:
+
+Commitment to the mission of the organization and our values
+Commitment to our guiding principles
+Commitment to diversity, equity, and inclusion
+Cross-cultural sensitivity and awareness
+Collaborative working experience
+
+Additionally, we’d love it if you have:
+
+Experience with Hadoop
+Understanding of related disciplines including Machine Learning, Statistics, Privacy  and Algorithms
+Experience working with site reliability engineers

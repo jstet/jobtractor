@@ -5,6 +5,6 @@ def test_load():
     assert len(doc) > 0
     assert isinstance(doc, str)
     # save to file
-    with open("tests/fixtures/climeworks_10_29.txt", "w") as f:
+    with open("tests/fixtures/html/climeworks_11_01.txt", "w") as f:
         f.write(doc)
 

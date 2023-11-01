@@ -1,0 +1,77 @@
+Data Operations Specialist (80 - 100%)
+        -
+        Zurich, Switzerland
+This website requires Javascript for some parts to function properly. Your experience may vary.
+    Skip to content
+Act now
+Join the fight against global warming
+Enterprises
+Our carbon removal service for enterprises seeking high-quality carbon removal for their net zero strategy and beyond.
+    Remove CO₂
+SMEs
+Our carbon removal service for small – medium businesses who want to help the world reach net zero and support our scale-up.
+    Remove CO₂
+Individuals
+Our carbon removal service for individuals who want to reduce their impact on the planet and contribute to our scale-up.
+    Support the scale-up
+What we do
+                                                Direct air capture
+                                                CO₂ removal
+                                                Our plants
+                                                MRV & integrity
+                                                Responsible projects
+Businesses
+                                                Remove CO₂
+                                                Our service
+                                                Our customers
+                                                Ask the experts
+Individuals
+                                                Remove CO₂
+                                                Footprint calculator
+                                                FAQ
+Insights
+                                                Climate Week NYC
+                                                DAC Summit 2023
+                                                Blog
+                                                Publications
+About us
+                                                Journey
+                                                News & press
+                                                Careers
+                                                Leadership
+                                                Contact
+My Account
+Data Operations Specialist (80 - 100%)
+Zurich, Switzerland
+Ready to join a team of visionaries who is dedicated to solving one of humankind’s greatest challenges?
+Get to know ClimeworksClimeworks removes CO₂ from the air to fight global warming and protect future generations to come. We develop, build and operate direct air capture (DAC) machines which capture CO₂ directly from the air. The captured carbon dioxide is removed from the air by safely storing it underground, permanently. Founded in 2009 by engineers, Christoph Gebald and Jan Wurzbacher, Climeworks was built with a mission to inspire 1 billion people to remove CO₂ from the air, and is now spearheading the DAC industry globally. It has the world’s largest DAC facility and storage installation in operation and a team of over 300 Climeworkers determined to contribute to a net-zero future. A true climate pioneer, Climeworks is featured as a TIME100 Influential Company 2022 and Global Cleantech 100 Company 2022, driving a revolutionary technology engineered to solve the most pressing issue of our time. We foster a dynamic environment and are building a global purpose driven team. We are looking for disruptive thinkers, passionate achievers and inspiring leaders that are ready to take on the world’s greatest challenge. Will you join us? 
+Your mission
+Job description
+Your mission at Climeworks is to troubleshoot and resolve data-related issues promptly, including backfilling missing data, perform potential data corrections, perform potential bug fixing. You support setting up monitoring and alerting system to detect anomalies and ensure data accuracy, consistency, and reliability. You take proactive actions to address issues and minimize downtime. You also support the management and maintenance of data flows in our data platform, maintain and improve various dashboards. You reply to data users requests and data support tickets (incl. data tools support).You develop data policies and procedures to ensure consistency and compliance, provide user trainings on data management and usage to ensure data tools are used consistently across several teams. You collaborate closely with cross-functional teams, including data engineers, data scientists, and other stakeholders. You understand their data needs and provide support for data-related tools and projects. You facilitate effective communication and alignment between teams to drive successful data operations.
+Your story
+Requirements
+ You hold a bachelor or master’s in Computer Science, Engineering, or related fields. You have at least 3-5 years of proven experience in effectively managing and maintaining data flows or infrastructures, preferably within the context of a technology or plant operating/engineering company. You have a good understanding of technical data around plant engineering. You are familiar with data storage and retrieval technologies (e. g. SQL, NoSQL, data warehouses).You are passionate about providing accurate Data, troubleshooting, and solving user requests. You ideally bring experience in Python and have have experience using Azure and Databricks. You are highly self-motivated, proactive, precise, and thrive on hands-on tasks in a fast-paced environment. You are a collaborative team player, enthusiastic about contributing to a rapidly evolving environment that is still in the process of definition and establishment. You have excellent communication skills to interact with technical and non-technical stakeholders. You are fluent in English; any German knowledge is a plus.
+What we offer:  A horizontal organization, a great team, an improvement-oriented approach, and a scale-up venture with an innovative technology. Sounds like you? We are looking forward meeting you! Apply now by filling in the online application form and uploading your complete dossier to our careers portal: https://www. climeworks. com/careers.
+Our promise: At Climeworks, you are accepted for who you are. As part of our ongoing journey towards creating a diverse and inclusive environment - we encourage everyone to apply! All qualified applicants are considered for positions, so bring along your knowledge, personal experiences, and fresh perspectives, and together we can solve one of humankind’s greatest challenges. We look forward to getting to know you!
+Disclaimer: The percentage in the job title means that for this vacancy, you can decide if you want to be employed on a full-time or part-time basis, depending on what works best for your needs.
+We do not accept candidates from agencies for our positions.
+        Apply for this position
+                    Explore more
+At Climeworks, we believe the people make all the difference. Discover other opportunities and learn more about our team, our technology and our culture.
+    Careers at Climeworks
+    Open positions
+Menu
+Our purpose
+Our technology
+Careers
+Contact
+Our purpose
+Our technology
+Careers
+Contact
+Trustpilot
+© 2023 Climeworks
+Terms of Use
+Privacy notice
+No cookies = No worries: We don’t use 3rd party cookies and only use the cookies we strictly need to keep our website functioning. Our website usage data is 100% cookie-less, anonymized, safely stored in Switzerland and under our full control. For more information, please check out our privacy notice.
+                    OK

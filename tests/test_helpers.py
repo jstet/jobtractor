@@ -1,6 +1,6 @@
 import pytest
-from datetime import datetime
 from jobtractor.helpers import filter_jobs, add_meta
+from jobtractor.models import JobMeta
 
 @pytest.fixture
 def sample_links():
@@ -22,11 +22,7 @@ def test_add_meta():
     id_extract_re = r"/job/(\d+)"
     
     meta = add_meta(final_url, html, id_extract_re)
-    assert "company_job_id" in meta
-    assert "html" in meta
-    assert "url" in meta
-    assert "extracted_at" in meta
-    assert meta["company_job_id"] == "1"
-    assert meta["html"] == html
-    assert meta["url"] == final_url
-    assert isinstance(meta["extracted_at"], datetime)
+    assert isinstance(meta, JobMeta)
+    assert meta.company_job_id == "1"
+    assert meta.html == html
+    assert meta.url == final_url

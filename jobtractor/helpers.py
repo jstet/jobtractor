@@ -1,10 +1,13 @@
 from datetime import datetime
 from dagster import op
+from jobtractor.models import JobMeta
 import re
+
 
 @op
 def filter_jobs(links):
     return [link for link in links if "data" in link["text"].lower()]
+
 
 @op
 def add_meta(final_url, html, id_extract_re):
@@ -20,11 +23,10 @@ def add_meta(final_url, html, id_extract_re):
     Returns:
         dict: The job object with added metadata.
     """
-    dct = {}
-    dct["company_job_id"] = re.search(fr"{id_extract_re}", final_url).group(1)
-    dct["html"] = html
-    dct["url"] = final_url
-    dct["extracted_at"] = datetime.now()
-    return dct
-
-
+    meta = JobMeta(
+        company_job_id=re.search(rf"{id_extract_re}", final_url).group(1),
+        html=html,
+        url=final_url,
+        extracted_at=datetime.now(),
+    )
+    return meta

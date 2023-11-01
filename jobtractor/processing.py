@@ -1,6 +1,7 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
 from bs4 import BeautifulSoup
+import re
 from dagster import op
 
 @op()
@@ -10,6 +11,9 @@ def clean_html(html):
     for form in forms:
         form.decompose()
     text = soup.get_text().strip()
+    lines = [line for line in text.splitlines() if line.strip()]
+    text = "\n".join(lines)
+    text = re.sub(r'(?<=[a-zA-Z0-9])[.](?=[a-zA-Z0-9])', '. ', text)
     return text
 
 @op()
@@ -20,5 +24,5 @@ def process_for_llm(text, chunk_size: int = 1000):
     splits = splitter.split_documents([doc])
 
     content = splits[0].page_content
-
+    
     return content

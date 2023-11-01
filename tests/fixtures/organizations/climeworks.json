@@ -1,12 +1,7 @@
-def test_by_url(wikimedia, climeworks):
-    company = "wikimedia"
-    jobs = by_url(wikimedia, url_contains="https://grnh.se", avoid_url="https://boards.greenhouse.io/{company}", id_extract_re=r"/(\d+)\?")
-    assert isinstance(jobs, list)
-    if len(jobs) > 0:
-        assert isinstance(jobs[0], dict)
-    print(jobs[0]["data"])
-    jobs = by_url(climeworks, url_contains="/jobs", base_url="https://climeworks.com",id_extract_re=r"/([^/]+)$")
-    assert isinstance(jobs, list)
-    if len(jobs) > 0:
-        assert isinstance(jobs[0], dict)
-    print(jobs[0]["data"])
+    {
+        "career_url": "https://climeworks.com/careers-search",
+        "jobs_url": "/jobs",
+        "jobs_base_url": "https://climeworks.com",
+        "career_forward_url": null,
+        "id_extract_re": "/([^/]+)$"
+    }   
