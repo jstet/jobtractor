@@ -1,37 +1,26 @@
+from jobtractor.models import Job
 from langchain.chat_models import ChatLiteLLM
-from pydantic import BaseModel
+from dagster import op
 from langchain.output_parsers import PydanticOutputParser
 from langchain.prompts.chat import (
     ChatPromptTemplate,
     HumanMessagePromptTemplate,
 )
-from typing import Sequence
-
 from dotenv import load_dotenv
 
 load_dotenv()
 
-class Job(BaseModel):
-    job_name: str
-    job_location: str
-
-class Jobs(BaseModel):
-    """Identifying information about all jobs in a text."""
-    jobs: Sequence[Job]
-
 llm = ChatLiteLLM(model="perplexity/mistral-7b-instruct", temperature=0.0)
 
-def extract(content: str, url,single: bool = True):
+@op()
+def text_extract_single(content: str):
 
-    if single:
-        parser = PydanticOutputParser(pydantic_object=Job)
-    else:
-        parser = PydanticOutputParser(pydantic_object=Jobs)
+    parser = PydanticOutputParser(pydantic_object=Job)
 
     prompt = ChatPromptTemplate(
         messages=[
             HumanMessagePromptTemplate.from_template(
-                "Answer the user query. \n {format_instructions} \n {query} \n"
+                "Please answer the following query as specified and do not add additional information. \n\n{format_instructions}\n\n{query}\n"
             )
         ],
         input_variables=["query"],
@@ -40,5 +29,8 @@ def extract(content: str, url,single: bool = True):
     _input = prompt.format_prompt(query=content)
     output = llm(_input.to_messages())
     output_content = output.content.replace("\\_", "_").replace("}}","}")
+    summary_start = output_content.find('"summary"')
+    if summary_start != -1:
+        output_content = output_content[:summary_start-2] + "}" 
     parsed = parser.parse(output_content)
-    return parsed.model_dump()
+    return parsed

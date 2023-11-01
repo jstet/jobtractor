@@ -1,0 +1,7 @@
+{
+    "career_url": "https://wikimediafoundation.org/about/jobs",
+    "jobs_url": "https://grnh.se",
+    "jobs_base_url": null,
+    "career_forward_url": "https://boards.greenhouse.io/wikimedia",
+    "id_extract_regex": "/(\\d+)\\?"
+}
